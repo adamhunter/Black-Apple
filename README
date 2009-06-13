@@ -1,0 +1,3 @@
+WordPress theme based off of Apple.com
+
+Uses custom renderer for displaying the theme as well as some Ruby on Rails view helpers converted to PHP.

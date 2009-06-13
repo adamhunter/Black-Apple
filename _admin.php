@@ -1,0 +1,1 @@
+<?php edit_post_link('Edit', '', ' | '); ?> 
